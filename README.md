@@ -1,4 +1,4 @@
-# Please follow the following steps
+# Do follow the following steps
 
 ## Folder Must haves
 1. Inside the pages folder create new folder for your group
